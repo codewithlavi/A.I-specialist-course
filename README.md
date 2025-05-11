@@ -1,1 +1,1 @@
-# 🤖A.I-specialist-course
+# 🤖🖥️A.I Specialist Course
