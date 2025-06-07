@@ -1,6 +1,5 @@
- # 🤖🖥️ Artificial Intelligence Specialization 🤖🖥️
-
-### Trending Topics:
+ # 🤖🖥️ Master in Artificial Intelligence 🤖🖥️
+- **Data Science**
 - **Machine Learning:** Supervised and unsupervised learning, neural networks, and model evaluation.
 - **Deep Learning:** Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and transformers.
 - **Natural Language Processing (NLP):** Sentiment analysis, text generation, and language models.
@@ -24,3 +23,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">&nbsp;&nbsp;
 </p>
 <br>
+
+
+
